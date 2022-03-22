@@ -3,7 +3,7 @@
 <h4 align="center" ><samp>Hi there 👋 welcome to my Github! I'm  𝚊 ✨𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎✨ Full Stack Web Developer, I  like Python 🐍 and I'm always curious about  exploring new Technologies ☁️ </samp></h4>
 
 <br/>
-<h3 align="center">𝙵𝚒𝚗𝚍 𝚖𝚎 𝚘𝚗</h3> 
+<h3 align="center"><samp>𝙵𝚒𝚗𝚍 𝚖𝚎 𝚘𝚗</samp></h3> 
 <p align="center"><a 
 href="https://github.com/RaniaAbdullahh" target="_blank"><img alt="Github" 
 src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
