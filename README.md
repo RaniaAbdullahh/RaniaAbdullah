@@ -41,7 +41,8 @@ src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=
   ![postgresql](https://img.shields.io/badge/-postgresql-000?&logo=postgresql)
 
 
-
+<br />
+<br />
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
