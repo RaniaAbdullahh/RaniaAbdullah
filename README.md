@@ -1,5 +1,5 @@
 
-<br/>
+
 <h4 align="center"><samp>Hi there 👋 welcome to my Github! I'm  𝚊 ✨𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎✨ Full Stack Web Developer, I  like Python 🐍 and I'm always curious about  exploring new Technologies ☁️ </samp></h4>
 
 <br/>
