@@ -7,7 +7,7 @@
 <p align="center"><a 
 href="https://github.com/RaniaAbdullahh" target="_blank"><img alt="Github" 
 src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
-href="www.linkedin.com/in/rania-blwi-r96" target="_blank"><img alt="LinkedIn" 
+href="https://www.linkedin.com/in/rania-blwi-r96" target="_blank"><img alt="LinkedIn" 
 src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a 
 href="www.gmail.com/in/rania-blwi-r96" target="_blank"><img alt="gmail" 
 src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
